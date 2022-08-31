@@ -1,2 +1,1 @@
-# library-app
-Library app using Vanilla JavaScript.
+Creditos fotografia Alfons Morales -> https://unsplash.com/es/fotos/YLSwjSy7stw.
